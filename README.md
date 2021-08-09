@@ -1,4 +1,4 @@
 git記入用
 
-8/8
-JavaScript
+8/9
+JavaScript_5
